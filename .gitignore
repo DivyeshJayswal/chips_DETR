@@ -1,0 +1,5 @@
+project_dataset/
+lightning_logs/
+detr_venv/
+detr_finetuned/
+dataset_split/
